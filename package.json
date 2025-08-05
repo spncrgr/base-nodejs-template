@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-yarn",
+  "version": "1.0.0",
+  "description": "A Node.js project using Yarn as package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@1.22.22",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
